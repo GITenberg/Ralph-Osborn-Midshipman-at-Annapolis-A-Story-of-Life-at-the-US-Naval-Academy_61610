@@ -1,5 +1,5 @@
 _repo: Ralph-Osborn-Midshipman-at-Annapolis-A-Story-of-Life-at-the-US-Naval-Academy_61610
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Merrill, Frank T.
@@ -10,12 +10,17 @@ contributor:
     deathdate: 1923
     gutenberg_agent_id: '6202'
     url: http://www.gutenberg.org/2009/agents/6202
+covers:
+- cover_type: archival
+  image_path: 61610-h/images/cover.jpg
 creator:
   author:
     agent_name: Beach, Edward Latimer
     gutenberg_agent_id: '51516'
     url: http://www.gutenberg.org/2009/agents/51516
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61610#Ralph-Osborn-Midshipman-at-Annapolis-A-Story-of-Life-at-the-US-Naval-Academy
 gutenberg_issued: '2020-03-13'
 gutenberg_type: Text
 identifiers:
